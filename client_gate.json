@@ -1,6 +1,6 @@
 {
-  "maintenance": true,
-  "message": "Servers in maintenance",
+  "maintenance": false,
+  "message": "Servers Active",
   "min_version_code": 1,
-  "config_rev": 203
+  "config_rev": 204
 }
